@@ -6,6 +6,8 @@ create `.env` file like the example `.env.sample`
 
 start with `npm run start-dev`
 
+**http://localhost:5000**
+
 ## Description
 
 Describe your project in one/two lines.
